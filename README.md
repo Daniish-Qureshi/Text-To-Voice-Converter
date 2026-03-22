@@ -116,7 +116,7 @@ function speak() {
 
 | Browser | Voices Available |
 |---------|-----------------|
-| **Google Chrome** | 40–50+ voices (includes Google US English, Google Hindi, etc.) |
+| **Google Chrome** | 4–5+ voices (includes Google US English, Google Hindi, etc.) |
 | **Microsoft Edge** | 40+ Natural (neural) voices |
 | **Safari** | System voices from macOS/iOS |
 | **Firefox** | OS-level voices (fewer than Chrome) |
